@@ -37,6 +37,10 @@ Here are some ideas to get you started:
       <br>Typescript
     </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
     </td>
@@ -54,34 +58,35 @@ Here are some ideas to get you started:
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
-      <br>Github
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="HTML" />
+      <br>Neovim
     </td>
     <td align="center"  width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
-      <br>GitLab
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="HTML" />
+      <br>Linux
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
+        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="HTML" />
+      <br>Kotlin
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sql" width="48" height="48" alt="PostgreSQL" />
-      <br>SQL
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="PostgreSQL" />
+      <br>mysql
+    </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="PostgreSQL" />
+      <br>Rust
     </td>
   </tr>
  <tr>
      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" width="48" height="48" alt="Flutter" />
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Flutter" />
       <br>Flutter
     </td>
-        <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
-      <br>Postman
  </tr>
 </table>
