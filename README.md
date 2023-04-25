@@ -78,12 +78,12 @@ Here are some ideas to get you started:
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="PostgreSQL" />
       <br>mysql
     </td>
+  </tr>
+ <tr>
        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="PostgreSQL" />
       <br>Rust
     </td>
-  </tr>
- <tr>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Flutter" />
       <br>Flutter
