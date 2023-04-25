@@ -72,7 +72,7 @@
     </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Flutter" />
-      <br>Flutter
+      <br>TensorFlow
     </td>
  </tr>
 </table>
