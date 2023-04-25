@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=E6EFFF&multiline=true&width=435&lines=Hello+There!+I+am+Vegard+Sj%C3%A5vik;Computer+Science+student+at+NTNU)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=E6EFFF&multiline=true&width=435&lines=Hello+There!+I+am+Vegard+Sj%C3%A5vik;-+Computer+Science+student+at+NTNU)](https://git.io/typing-svg)
 
 ![](https://gitwar.herokuapp.com/badge?username=VegSja)
 [![VegSja's GitHub stats](https://github-readme-stats.vercel.app/api?username=VegSja&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
