@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There!+I+am+Vegard+Sjåvik;Computer+science+student+at+NTNU)](https://git.io/typing-svg)
 
 ![](https://gitwar.herokuapp.com/badge?username=VegSja)
 [![VegSja's GitHub stats](https://github-readme-stats.vercel.app/api?username=VegSja&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
