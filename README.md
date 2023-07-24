@@ -4,7 +4,7 @@
 <br />
 
 ![](https://gitwar.herokuapp.com/badge?username=VegSja)
-[![VegSja's GitHub stats](https://github-readme-stats.vercel.app/api?username=VegSja&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![VegSja's GitHub stats](https://github-readme-stats.vercel.app/api?username=VegSja&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My favorite tools and technologies ⚙️ 
 
