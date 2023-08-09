@@ -27,8 +27,8 @@
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="HTML" />
+      <br>Flask
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
@@ -73,6 +73,10 @@
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Flutter" />
       <br>TensorFlow
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="Flutter" />
+      <br>FastAPI
     </td>
  </tr>
 </table>
