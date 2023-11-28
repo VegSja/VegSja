@@ -45,8 +45,8 @@
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="HTML" />
-      <br>Neovim
+        <img src="https://skillicons.dev/icons?i=emacs" width="48" height="48" alt="HTML" />
+      <br>Emacs
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="HTML" />
